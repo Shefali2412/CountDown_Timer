@@ -8,7 +8,7 @@
     <meta charset="UTF-8">
 </head>
 <body>
-
+    <h1>Countdown Timer</h1>
     <p>This is a web project developed as part of the Matrix Master Bootcamp in Rotterdam, the Netherlands. The goal of this project is to create a TIMER using jQuery, with the following functions</p>
     <ul>
         <li>Start a 25-minute, and the timer will go off once 25 minutes have elapsed;</li>
@@ -17,7 +17,7 @@
         <li>There is a sound notification when the time is finished.</li>    
     </ul>
     <h2>Visit the Project</h2>
-    <p>Check out the project: <a href="file:///Users/mosespraveenkambalapati/Documents/clock/index.html">Countdown Timer</a></p>
+    <p>Check out the project: <a href="https:/Users/mosespraveenkambalapati/Documents/clock/index.html">Countdown Timer</a></p>
     <h2>Developers involved in the project</h2>
     <ul>
         <li>Divya: <a href="https://github.com/gofordivya">GitHub</a></li>
