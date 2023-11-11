@@ -17,7 +17,7 @@
         <li>There is a sound notification when the time is finished.</li>    
     </ul>
     <h2>Visit the Project</h2>
-    <p>Check out the project: <a href="https://Users/mosespraveenkambalapati/Documents/clock/index.html">Countdown Timer</a></p>
+    <p>Check out the project: <a href="file:///Users/mosespraveenkambalapati/Documents/clock/index.html">Countdown Timer</a></p>
     <h2>Developers involved in the project</h2>
     <ul>
         <li>Divya: <a href="https://github.com/gofordivya">GitHub</a></li>
