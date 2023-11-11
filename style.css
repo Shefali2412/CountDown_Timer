@@ -1,0 +1,43 @@
+body {
+    background-image: url(./bg1.jpg);
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+#timerDisplay {
+    font-size: 9em;
+    margin-bottom: 20px;
+    color: whitesmoke;
+    border: 13px solid black;
+}
+
+#controls {
+    display: flex;
+    align-items: center;
+    margin-top: 85px;
+}
+
+button {
+    font-size: 3em;
+    margin: 0 10px;
+    padding: 23px 23px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+input {
+    font-size: 2em;
+    padding: 20px;
+    text-align: center;
+    width: 50px;
+}
+

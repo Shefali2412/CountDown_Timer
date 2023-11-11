@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CountDown Timer</title>
+    <link rel="stylesheet" href="style.css">
+    <script
+  src="https://code.jquery.com/jquery-3.7.1.js"
+  integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4="
+  crossorigin="anonymous"></script>
+    <script src="./script.js" defer></script>
+</head>
+<body>
+    <div id="timerDisplay">25 : 00</div>
+
+ <div id="controls">
+    <div class="customise">
+      <button id="minus">-</button>
+      <input type="number" id="timer" min="1" value="25">
+      <button id="plus">+</button>
+    </div>  
+    <button id="start">Start</button>
+    <button id="reset">Reset</button>
+  </div>
+
+  <audio id="notification" src="clock-alarm-8761.mp3"></audio>
+
+    
+</body>
+</html>
