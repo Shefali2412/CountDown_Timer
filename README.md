@@ -17,13 +17,7 @@
         <li>There is a sound notification when the time is finished.</li>    
     </ul>
     <h2>Visit the Project</h2>
-    <p>Check out the project: <a href="https:/Users/mosespraveenkambalapati/Documents/clock/index.html">Countdown Timer</a></p>
-    <h2>Developers involved in the project</h2>
-    <ul>
-        <li>Divya: <a href="https://github.com/gofordivya">GitHub</a></li>
-        <li>Shubha: <a href="#">GitHub</a></li>
-        <li>Shefali: <a href="https://github.com/Shefali2412">GitHub</a></li>
-    </ul>
+    <p>Check out the project: <a href="http://127.0.0.1:5500/index.html">Countdown Timer</a></p>
     <h2>Matrix Master</h2>
     <p>Matrix Master is a company based in Rotterdam, the Netherlands, that offers bootcamp and training in web development and technology. Learn more about the company at: <a href="https://matrixmaster.info/">https://matrixmaster.info/</a></p>
     <h2>Technologies Used</h2>
